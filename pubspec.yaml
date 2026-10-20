@@ -1,0 +1,23 @@
+name: vetcare_innis
+description: "VetCare - app móvil multirol de la Clínica Veterinaria INNIS: citas, recepción, chofer y administración."
+publish_to: 'none'
+version: 1.0.0+1
+
+# Rango amplio a propósito: así `flutter pub get` no falla (exit code 65)
+# aunque tengas un SDK de Dart/Flutter más antiguo o más nuevo.
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo_innis.png

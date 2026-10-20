@@ -1,0 +1,5 @@
+1) Descomprime esta carpeta (en cualquier lugar, p. ej. Escritorio).
+2) Abre la carpeta en VS Code (Archivo > Abrir carpeta).
+3) Windows: doble clic en EJECUTAR.bat   (o en la terminal de VS Code: .\EJECUTAR.bat)
+   Mac/Linux: sh ejecutar.sh
+Se abre en Chrome. Login cliente: mariana.lopez@correo.com / 123456 (los otros roles: solo elige el rol).
