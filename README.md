@@ -119,3 +119,40 @@
 ## Perfil
 <img width="1080" height="2340" alt="perfil" src="https://github.com/user-attachments/assets/c5e391f2-1c25-4c2f-816a-9b6f71ced989" />
 
+# ADMINISTRADOR
+
+## Inicio
+<img width="1080" height="2340" alt="inicio_administrador" src="https://github.com/user-attachments/assets/c5e99bc5-ff8c-451e-a1bf-3e8c525655bd" />
+<img width="1080" height="2340" alt="inicio_administrador2" src="https://github.com/user-attachments/assets/3a23baac-4ca9-4563-80db-63004312150a" />
+<img width="1080" height="2340" alt="inicio_administrador3" src="https://github.com/user-attachments/assets/2d3a1319-8ddc-4c00-b7b4-5c382e6067c3" />
+
+## Agregar médico
+<img width="1080" height="2340" alt="agregar_medico" src="https://github.com/user-attachments/assets/0c806d68-32d3-4679-88cf-1721527a4c07" />
+
+## Editar médico
+<img width="1080" height="2340" alt="editar_medico" src="https://github.com/user-attachments/assets/a3ff6168-c770-4f10-a861-9e7dae110406" />
+
+## Agregar chofer
+<img width="1080" height="2340" alt="agregar_chofer" src="https://github.com/user-attachments/assets/55c3f421-2942-433b-879a-0ec66944ff9b" />
+
+## Nuevo servicio
+<img width="1080" height="2340" alt="nuevo_servicio" src="https://github.com/user-attachments/assets/eec5d178-06b8-4d8b-aeaf-b85c4c5f8ed3" />
+
+## Aumentar precios
+<img width="1080" height="2340" alt="aumentar_precios" src="https://github.com/user-attachments/assets/a10cfae1-dd1e-449e-bc9f-fdc443f1a8e8" />
+
+## Editar contacto de la clinica
+<img width="1080" height="2340" alt="contacto_clinica" src="https://github.com/user-attachments/assets/7ab5b889-2947-46d4-b567-d19247304b6e" />
+
+## Perfil
+<img width="1080" height="2340" alt="perfil" src="https://github.com/user-attachments/assets/56bc9392-0534-427c-b286-75e4c312c05a" />
+
+
+
+
+
+
+
+
+
+
