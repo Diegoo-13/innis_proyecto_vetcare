@@ -93,6 +93,37 @@
 #Perfil
 <img width="1080" height="2340" alt="perfil" src="https://github.com/user-attachments/assets/291cb03e-1783-4e17-b6b8-d7dcf81b0c6d" />
 
+##CHOFER
+
+#Incio
+<img width="1080" height="2340" alt="inicio_chofer" src="https://github.com/user-attachments/assets/4626b5b2-11db-408a-90bb-be68fcf20911" />
+
+#Salir a domicilio
+<img width="1080" height="2340" alt="salir_a_domicilio" src="https://github.com/user-attachments/assets/97e719f2-5b06-43f1-8464-f2e01e484fab" />
+
+#Contactar al cliente
+<img width="1080" height="2340" alt="contactar_cliente" src="https://github.com/user-attachments/assets/99902a7d-04db-4cdf-b25f-618f53316948" />
+
+#Contactar a la clinica
+<img width="1080" height="2340" alt="contactar_clinica" src="https://github.com/user-attachments/assets/2598d023-d59d-4bc4-94a4-4087a14e45a9" />
+
+#Llegue al domicilio
+<img width="1080" height="2340" alt="llegue_domicilio" src="https://github.com/user-attachments/assets/ff8bb5ad-18f0-4908-8bab-061054072426" />
+
+#Regresar a la clinica
+<img width="1080" height="2340" alt="regresar_clinica" src="https://github.com/user-attachments/assets/a08b2b2f-692c-4c9d-92d7-0d23525a8a6f" />
+
+#Servicio concluido
+<img width="1080" height="2340" alt="servicio_concluido" src="https://github.com/user-attachments/assets/c80cbb48-7dc0-4795-a39d-ff8a74910287" />
+
+#Perfil
+<img width="1080" height="2340" alt="perfil" src="https://github.com/user-attachments/assets/c5e391f2-1c25-4c2f-816a-9b6f71ced989" />
+
+
+
+
+
+
 
 
 
